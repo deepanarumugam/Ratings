@@ -1,4 +1,4 @@
-# INT301_Movie_Ratings
+#Ratings
 1.Home page
 
 In this page we can see the different types of movies with their rating and Story line. In the rating column I have added rating display and button to give rating to a particular movie.
